@@ -1,4 +1,4 @@
-# Rehabify - Nasha Mukti Kendra Management Platform
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=45&pause=1000&color=F7F7F7&width=1500&height=100&lines=Rehabify+-+Nasha+Mukti+Kendra+Management+Platform%F0%9F%8C%8D" alt="Typing SVG" /></a>
 
 <table align="center">
     <thead align="center">
